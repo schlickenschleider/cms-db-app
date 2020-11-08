@@ -1,0 +1,6 @@
+[
+    { "#": 1, "Name": "Bruce Wayne", "Company": "Wayne Enterprise", "Email": "bruce@wayne.com", "Phone": "34972423742"},
+    { "#": 2, "Name": "Jack Jones", "Company": "The Best Of Ltd","Email": "jack@jack.com", "Phone": "34 972423742"},
+    { "#": 3, "Name": "Peter Parker", "Company": "Marvel Inc","Email": "parker@marvel.com", "Phone": "34 972423742"},
+    { "#": 3, "Name": "Ivan Tasler", "Company": "IMT Smile s.r.o.","Email": "ivan@imtsmile.com", "Phone": "0903 456789"}
+]
